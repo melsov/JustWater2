@@ -19,7 +19,7 @@ public class Drop
 		Xloc += Xvel;
 	}
 	
-	public void youCollidedWithSomething() {
+	public void youCollidedWithSomething() { //POINTLESS. NOT SURE WHY THIS IS HERE...
 		Xvel=0;
 	}
 	
